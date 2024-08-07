@@ -1,2 +1,30 @@
 # Cyber-Security-Bookmarks
 A collection of bookmarked websites related to cybersecurity.
+
+- Archive
+- Attack
+- Cipher
+- Database
+- DNS
+- Encode/Decode
+- EXIF
+- Exploit
+- FTP
+- Hash
+- Hex
+- Image
+- IOC
+- IP
+- MAC
+- Mail
+- Malware
+- Network
+- Phishing
+- PHP
+- Ransomware
+- Regexr
+- Shell
+- SSL/TLS
+- Spectrogram/Steganography
+- Vulunerability
+- Web
